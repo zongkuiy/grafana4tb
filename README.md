@@ -37,7 +37,7 @@ A backend project for [Grafana](https://github.com/grafana/grafana) connecting t
 
 Field | Value
 ---|---
-HTTP.URL | http://<grafana4tb_host>:<port>/grafana/<deviceToken>
+HTTP.URL | http://<grafana4tb_host>:<grafana4tb_port>/grafana/<deviceToken>
 HTTP.ACCESS | server/client both works
 Auth | default
 Basic Auth Details | default
